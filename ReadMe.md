@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Front nd<br>👯 Estou a procura de um estágio <br>
+🔭 Sou estudante de Front End<br>👯 Estou a procura de um estágio <br>
 
 
 ## 🌐 Socials:
